@@ -168,7 +168,7 @@ We also thank the **ISIC** for making their benchmark datasets publicly accessib
 For queries regarding the paper or code, feel free to reach out:
 
 - **Uttam Mittal** — hemanthmittal02@gmail.com
-- **Adnen El Amraoui** — adnen.elamraoui@univ-artois.fr
+- **Siddhesh Varpe** — siddheshsanjayvarpe.mt24cse@pec.edu.in
 
 ---
 
