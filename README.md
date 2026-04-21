@@ -15,10 +15,6 @@
 
 ---
 
-> ⚠️ **Note:** This repository accompanies a research paper currently under review. Full implementation details, model weights, and complete experimental results will be released upon publication. Stay tuned — star ⭐ the repo to get notified!
-
----
-
 ## 📌 Overview
 
 Skin cancer is one of the most prevalent cancers worldwide, with melanoma being its most fatal form. Early and accurate detection is critical for improving patient outcomes. This work proposes a **multimodal deep learning framework** that goes beyond conventional single-modality approaches by jointly leveraging:
@@ -121,7 +117,7 @@ Our ensemble framework achieves strong performance on a held-out test set of ~80
 
 <table>
 <tr>
-<td align="center"><b>Uttam Mittal</b><br>PEC Chandigarh<br><i>GATE AIR 29 (DA 2024)</i></td>
+<td align="center"><b>Uttam Mittal</b><br>PEC Chandigarh<br></td>
 <td align="center"><b>Siddhesh Varpe</b><br>PEC Chandigarh</td>
 <td align="center"><b>Aaditya Sharma</b><br>PEC Chandigarh</td>
 <td align="center"><b>Tamanna Sood</b><br>Roundglass Living</td>
